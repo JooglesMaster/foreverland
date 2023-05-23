@@ -1,0 +1,18 @@
+https://trello.com/b/DxcZ4q7i/foreverland
+https://dashboard.heroku.com/apps
+
+socket-game/
+├── public/
+│   ├── index.html
+│   └── client.js
+├── server.js
+└── package.json
+
+
+//hosting instructions
+
+Deploy Your Application: Now you're ready to deploy your application. Open your terminal, navigate to your project's directory, and run the following commands:
+
+Log in to Heroku by using commands:
+
+heroku login
